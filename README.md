@@ -4,9 +4,9 @@
 
 - <b>Biomedial engineering projects</b>
   - [A thousand word speller](https://github.com/mpruesga/thousand-word-speller/tree/main)
+  - [Near Infrared tomograpghy prototype](https://github.com/mpruesga/thousand-word-speller/tree/main)
 
-
-<h2>Certifications</h2>
+<h2>Certifications:></h2>
 
 
 <h2>Connect with me:</h2>

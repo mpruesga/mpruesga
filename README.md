@@ -1,4 +1,4 @@
-<h1>Miguel Angel Pulido Ruesga</h1>
+<h1>My portfolio (WIP)</h1>
 
 <h2>Projects:</h2>
 

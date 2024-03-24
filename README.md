@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Biomedial engineering projects</b>
-  - [A thousand word speller](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [A thousand word speller](https://github.com/mpruesga/thousand-word-speller/tree/main)
 
 
 <h2>Certifications</h2>

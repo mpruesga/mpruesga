@@ -5,6 +5,7 @@
 - <b>Biomedial engineering projects</b>
   - [A thousand word speller](https://github.com/mpruesga/thousand-word-speller/tree/main)
   - [Near Infrared tomograpghy prototype](https://github.com/mpruesga/thousand-word-speller/tree/main)
+  - [Harvey Surgical Assistance](https://github.com/mpruesga/HarveySA/tree/main)
 
 <h2>Certifications:></h2>
 
